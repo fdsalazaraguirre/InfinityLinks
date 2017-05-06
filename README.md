@@ -1,2 +1,2 @@
-# InfinityLinks
-Infinity Links First Version for hacker rank Competition
+# Infinite Links
+Infinite Links First Version for hacker rank Competition
